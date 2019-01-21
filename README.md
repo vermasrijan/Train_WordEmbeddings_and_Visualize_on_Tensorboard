@@ -40,10 +40,5 @@ Dataset(for hindi text) can be downloaded from various sources - <br/>
 
 ## 2. Tensorboard Visualization 
 
-![](https://cdn-images-1.medium.com/max/1600/1*_80rvfEBcGWDxNJE0rFJHA.gif)<br/>
+![embeddings](https://user-images.githubusercontent.com/24618926/51477825-9ce13d00-1daf-11e9-911b-83ea371cf1f8.gif)<br/>
 
-# Acknowledgements
-A big Thank you to the whole team of [Messy Fractals](https://messyfractals.wordpress.com/), especially [Dhanya P](https://www.linkedin.com/in/dhanyap/?originalSubdomain=in) and [Arvind Sivdas](https://www.linkedin.com/in/arvindsivdas/?originalSubdomain=in) for letting me work under them, for this project . <br/>
-
-# References
-The credits for this code go to the user [spro](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb). I have merely made some changes in it for dealing with Hindi text.
