@@ -42,3 +42,20 @@ Dataset(for hindi text) can be downloaded from various sources - <br/>
 
 ![embeddings](https://user-images.githubusercontent.com/24618926/51477825-9ce13d00-1daf-11e9-911b-83ea371cf1f8.gif)<br/>
 
+a) After running the above Jupyter Notebook, open your command prompt and type in the following code: - <br/>
+
+tensorboard --logdir="tensorboard" --port=8087 <br/>
+
+b) After running the above code, your prompt window will show results like - (You can navigate to [http://171.12.56.13:8087](https://projector.tensorflow.org/))<br/>
+
+c) Go to the following address [http://171.12.56.13:8087](https://projector.tensorflow.org/), and open the embedding section. Voila! and you will be able to visualize your embedding words!!<br/>
+
+d) Follow [this](https://www.youtube.com/watch?v=BkeQzJt0f5A) video for any doubts . 
+
+# Acknowledgements
+A big Thank you to the whole team of [Messy Fractals](https://messyfractals.wordpress.com/), especially [Dhanya P](https://www.linkedin.com/in/dhanyap/?originalSubdomain=in) and [Arvind Sivdas](https://www.linkedin.com/in/arvindsivdas/?originalSubdomain=in) for letting me work under them, for this NLP project . <br/>
+
+# References
+The credits for this code go to the user [sudharsan13296](https://github.com/sudharsan13296/visualise-word2vec) and [llSourcell](https://github.com/llSourcell/word_vectors_game_of_thrones-LIVE). 
+
+
